@@ -3,5 +3,5 @@ data viz components:
 2. Visitor data
 3. Journey Sotry
 4. Donation Simulator
-example of the visual https://www.washingtonpost.com/graphics/2020/health/coronavirus-how-epidemics-spread-and-end/
+example of the visual https://www.washingtonpost.com/graphics/2020/health/coronavirus-how-epidemics-spread-and-end/ ;
 how to plot point cloud in d3 https://bocoup.com/blog/smoothly-animate-thousands-of-points-with-html5-canvas-and-d3
